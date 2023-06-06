@@ -6,5 +6,5 @@
 
    
 
-自动构建项目来源：https://github.com/P3TERX/Actions-OpenWrt.git
+自动构建脚本来源：https://github.com/P3TERX/Actions-OpenWrt.git
 
